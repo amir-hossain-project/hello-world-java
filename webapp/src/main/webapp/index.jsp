@@ -1,5 +1,4 @@
-<html>
-<body>
+
 <h1> Hello,This is Amir  !!! </h1>
 <h2> New babie in the devOps culture </h2>
 <h3> One last test </h3>
@@ -14,7 +13,6 @@
 <h12> Slow development is better than NO development :Date march 26 </h12>
 <h13> kubernetes cluster March 26 9:08PM </h13> 
 <h14> Last commit for the day </h14> 
-</body>
-</html>
+
 
 
